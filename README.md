@@ -1,19 +1,14 @@
 ## 1> List_Interface
--- 1a)-List Operations
 
-ListOperations output  – (https://github.com/SakshiShetty19/Java-Programming/blob/main/1a_output.png)
--- 1b) Arraylist Operations
+### 1a) List Operations
+- [ListOperations output](https://github.com/SakshiShetty19/Java-Programming/blob/main/1a_output.png)
 
-
-ColorSearch o/p 1 - https://github.com/SakshiShetty19/Java-Programming/blob/main/1b1_output.png
-
-RemoveColors o/p 2 - https://github.com/SakshiShetty19/Java-Programming/blob/main/1b2_outpt.png
-
-SortColors o/p 3 - https://github.com/SakshiShetty19/Java-Programming/blob/main/1b3_output.png
-
-SubListColors o/p 4 - https://github.com/SakshiShetty19/Java-Programming/blob/main/1b4_output.png
-
-DeletenthIndex o/p 5 - https://github.com/SakshiShetty19/Java-Programming/blob/main/1b5_output.png
+### 1b) ArrayList Operations
+- [ColorSearch o/p 1](https://github.com/SakshiShetty19/Java-Programming/blob/main/1b1_output.png)
+- [RemoveColors o/p 2](https://github.com/SakshiShetty19/Java-Programming/blob/main/1b2_outpt.png)
+- [SortColors o/p 3](https://github.com/SakshiShetty19/Java-Programming/blob/main/1b3_output.png)
+- [SubListColors o/p 4](https://github.com/SakshiShetty19/Java-Programming/blob/main/1b4_output.png)
+- [DeletenthIndex o/p 5](https://github.com/SakshiShetty19/Java-Programming/blob/main/1b5_output.png)
 
 ## Linkedlist Operations
 Linkedlist program - https://github.com/SakshiShetty19/Java-Programming/blob/main/Linkedlist.java
