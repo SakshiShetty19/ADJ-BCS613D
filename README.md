@@ -1,9 +1,9 @@
-## List Operations
-ListOperations Program – (https://github.com/SakshiShetty19/Java-Programming/blob/main/ListOperations.java)
+## 1> List_Interface
+-- 1a)-List Operations
 
-ListOperations output link – (https://github.com/SakshiShetty19/Java-Programming/blob/main/1a_output.png)
-## Arraylist Operations
-Arraylist program - https://github.com/SakshiShetty19/Java-Programming/blob/main/ArrayList.java
+ListOperations output  – (https://github.com/SakshiShetty19/Java-Programming/blob/main/1a_output.png)
+-- 1b) Arraylist Operations
+
 
 ColorSearch o/p 1 - https://github.com/SakshiShetty19/Java-Programming/blob/main/1b1_output.png
 
