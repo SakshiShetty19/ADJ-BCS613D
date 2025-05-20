@@ -17,8 +17,29 @@
 - [DisplayWithPositions o/p 4](https://github.com/SakshiShetty19/ADJ-BCS613D/blob/main/1a.ListOperations/1c4_output.png)
 - [SwapElementsLinkedList o/p 5](https://github.com/SakshiShetty19/ADJ-BCS613D/blob/main/1a.ListOperations/1c5_output.png)
 
+## 2> String_Operations
 
+### 2a) String Methods  
+- [StringMethods o/p](https://github.com/SakshiShetty19/ADJ-BCS613D/blob/main/2.String_Operations/2a_output.png)
 
+## 3> String Programs
+
+### 3a) String_Operation demo
+- [String_Operation demo o/p](https://github.com/SakshiShetty19/ADJ-BCS613D/blob/main/2.String_Operations/2a_output.png)
+### 3b) String_Exercises1
+- [NullCheck o/p](https://github.com/SakshiShetty19/ADJ-BCS613D/blob/main/2.String_Operations/2a_output.png)
+- [CountOccurences o/p](https://github.com/SakshiShetty19/ADJ-BCS613D/blob/main/2.String_Operations/2a_output.png)
+- [ReverseString o/p](https://github.com/SakshiShetty19/ADJ-BCS613D/blob/main/2.String_Operations/2a_output.png)
+- [PalindromeCheck o/p](https://github.com/SakshiShetty19/ADJ-BCS613D/blob/main/2.String_Operations/2a_output.png)
+- [RemoveWhiteSpace o/p](https://github.com/SakshiShetty19/ADJ-BCS613D/blob/main/2.String_Operations/2a_output.png)
+
+  ### 3c) String_Exercises2
+- [FirstCapital o/p](https://github.com/SakshiShetty19/ADJ-BCS613D/blob/main/2.String_Operations/2a_output.png)
+- [Truncate o/p](https://github.com/SakshiShetty19/ADJ-BCS613D/blob/main/2.String_Operations/2a_output.png)
+- [IsNumeric o/p](https://github.com/SakshiShetty19/ADJ-BCS613D/blob/main/2.String_Operations/2a_output.png)
+- [RandomStringGen_o/p](https://github.com/SakshiShetty19/ADJ-BCS613D/blob/main/2.String_Operations/2a_output.png)
+- [WordCount o/p](https://github.com/SakshiShetty19/ADJ-BCS613D/blob/main/2.String_Operations/2a_output.png)
+    
 
 
 ## 4> Swing Programs
