@@ -62,22 +62,22 @@
 ## 5> Advanced Swing Components
 
 ### 5a) JList Example
-- [JListExample.java](https://github.com/SakshiShetty19/ADJ-BCS613D/blob/main/5.Swing_Programs2/JListExample.java)
-- ![5a_op](https://github.com/SakshiShetty19/ADJ-BCS613D/blob/main/5.Swing_Programs2/5a_op.png)
+
+- [JList Example_op](https://github.com/SakshiShetty19/ADJ-BCS613D/blob/main/5.Swing_Programs2/5a_op.png)
 
 ### 5b) Tabbed Pane
-- [TabbedPane.java](https://github.com/SakshiShetty19/ADJ-BCS613D/blob/main/5.Swing_Programs2/TabbedPane.java)
-- ![5b1_op](https://github.com/SakshiShetty19/ADJ-BCS613D/blob/main/5.Swing_Programs2/5b1_op.png)
-- ![5b2_op](https://github.com/SakshiShetty19/ADJ-BCS613D/blob/main/5.Swing_Programs2/5b2_op.png)
+
+- [Tabbed Pane_op1](https://github.com/SakshiShetty19/ADJ-BCS613D/blob/main/5.Swing_Programs2/5b1_op.png)
+- [Tabbed Pane_op2](https://github.com/SakshiShetty19/ADJ-BCS613D/blob/main/5.Swing_Programs2/5b2_op.png)
 
 ### 5c) JList Example 2
-- [JListExample2.java](https://github.com/SakshiShetty19/ADJ-BCS613D/blob/main/5.Swing_Programs2/JListExample2.java)
-- ![5c_op](https://github.com/SakshiShetty19/ADJ-BCS613D/blob/main/5.Swing_Programs2/5c_op.png)
+
+- [JList Example 2_op](https://github.com/SakshiShetty19/ADJ-BCS613D/blob/main/5.Swing_Programs2/5c_op.png)
 
 ### 5d) Tabbed Pane 2
-- [TabbedPane2.java](https://github.com/SakshiShetty19/ADJ-BCS613D/blob/main/5.Swing_Programs2/TabbedPane2.java)
-- ![5d_op](https://github.com/SakshiShetty19/ADJ-BCS613D/blob/main/5.Swing_Programs2/5d_op.png)
-- ![5d2_op](https://github.com/SakshiShetty19/ADJ-BCS613D/blob/main/5.Swing_Programs2/5d2_op.png)
+
+- [TabbedPane2_op1](https://github.com/SakshiShetty19/ADJ-BCS613D/blob/main/5.Swing_Programs2/5d_op.png)
+- [TabbedPane2_op2](https://github.com/SakshiShetty19/ADJ-BCS613D/blob/main/5.Swing_Programs2/5d2_op.png)
 
 
 
