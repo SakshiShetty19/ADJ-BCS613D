@@ -10,7 +10,7 @@
 - [SubListColors o/p 4](https://github.com/SakshiShetty19/ADJ-BCS613D/blob/main/1b.ArrayListOperations/1b4_output.png)
 - [DeletenthIndex o/p 5](https://github.com/SakshiShetty19/ADJ-BCS613D/blob/main/1b.ArrayListOperations/1b5_output.png)
 
-## LinkedList Operations
+## 1c) LinkedList Operations
 
 - [LinkedList program](https://github.com/SakshiShetty19/ADJ-BCS613D/blob/main/1c.LinkedListOperations/Linkedlist.java)
 - [IterateFromSecond o/p 1](https://github.com/SakshiShetty19/ADJ-BCS613D/blob/main/1c.LinkedListOperations/1c1_output.png)
