@@ -10,20 +10,14 @@
 - [SubListColors o/p 4](https://github.com/SakshiShetty19/Java-Programming/blob/main/1b4_output.png)
 - [DeletenthIndex o/p 5](https://github.com/SakshiShetty19/Java-Programming/blob/main/1b5_output.png)
 
-## Linkedlist Operations
-Linkedlist program - https://github.com/SakshiShetty19/Java-Programming/blob/main/Linkedlist.java
+## LinkedList Operations
 
-IterateFromSecond o/p 1 - https://github.com/SakshiShetty19/Java-Programming/blob/main/1c1_output.png
-
-ReverseLinkedList o/p 2 - https://github.com/SakshiShetty19/Java-Programming/blob/main/1c2_output%20(2).png
-
-AddLastLinkedList o/p 3 - https://github.com/SakshiShetty19/Java-Programming/blob/main/1c3_output.png
-
-DisplayWithPositions o/p 4 - https://github.com/SakshiShetty19/Java-Programming/blob/main/1c4_output.png 
-
-SwapElementsLinkedList o/p 5 - https://github.com/SakshiShetty19/Java-Programming/blob/main/1c5_output.png
-
-
+- [LinkedList program](https://github.com/SakshiShetty19/Java-Programming/blob/main/Linkedlist.java)
+- [IterateFromSecond o/p 1](https://github.com/SakshiShetty19/Java-Programming/blob/main/1c1_output.png)
+- [ReverseLinkedList o/p 2](https://github.com/SakshiShetty19/Java-Programming/blob/main/1c2_output%20(2).png)
+- [AddLastLinkedList o/p 3](https://github.com/SakshiShetty19/Java-Programming/blob/main/1c3_output.png)
+- [DisplayWithPositions o/p 4](https://github.com/SakshiShetty19/Java-Programming/blob/main/1c4_output.png)
+- [SwapElementsLinkedList o/p 5](https://github.com/SakshiShetty19/Java-Programming/blob/main/1c5_output.png)
 
 
 
