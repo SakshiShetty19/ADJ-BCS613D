@@ -103,9 +103,9 @@
 
 ### 7b) JSP Cookie Management
 
-- [JSP Cookie_op1](https://github.com/SakshiShetty19/ADJ-BCS613D/blob/main/7.JSPSession_Cookie/7b.JSPCookie/7b1_op.png)
-- [JSP Cookie_op2](https://github.com/SakshiShetty19/ADJ-BCS613D/blob/main/7.JSPSession_Cookie/7b.JSPCookie/7b2_op.png)
-- [JSP Cookie_op3](https://github.com/SakshiShetty19/ADJ-BCS613D/blob/main/7.JSPSession_Cookie/7b.JSPCookie/7b3_op.png)
+- [JSP Cookie_op1](https://github.com/SakshiShetty19/ADJ-BCS613D/blob/main/7.JSPSession_Cookie/7b.JSPCookie/7b2_op.png)
+
+- [JSP Cookie_op2](https://github.com/SakshiShetty19/ADJ-BCS613D/blob/main/7.JSPSession_Cookie/7b.JSPCookie/7b3_op.png)
 
 
 
