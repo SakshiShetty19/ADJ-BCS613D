@@ -131,7 +131,7 @@
 ### 9a) Delete Coffee
 
 - [Delete Coffee_op](https://github.com/SakshiShetty19/ADJ-BCS613D/blob/main/9.Coffee_Employee_JDBC/9a.Delete_Coffee/9a_op.png)
-)
+
 
 ### 9b) Query Coffee Name Starting with D
 
