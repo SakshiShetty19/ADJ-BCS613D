@@ -107,7 +107,24 @@
 
 - [JSP Cookie_op2](https://github.com/SakshiShetty19/ADJ-BCS613D/blob/main/7.JSPSession_Cookie/7b.JSPCookie/7b3_op.png)
 
+## 8> JDBC Coffee and Employee Database
 
+### 8a) Insert Coffee
+
+- [Insert Coffee_op](https://github.com/SakshiShetty19/ADJ-BCS613D/blob/main/8.JDBCCoffee_Employee/8a.InsertCoffee/8a_op.png
+)
+
+### 8b) Update Coffee
+
+- [Update Coffee_op1](https://github.com/SakshiShetty19/ADJ-BCS613D/blob/main/8.JDBCCoffee_Employee/8b.UpdateCoffee/8b_op.png)
+
+### 8c) Insert Employee
+
+- [Insert Employee_op](https://github.com/SakshiShetty19/ADJ-BCS613D/blob/main/8.JDBCCoffee_Employee/8c.InsertEmployee/8c_op.png)
+
+### 8d) Update Employee
+
+- [Update Employee_op](https://github.com/SakshiShetty19/ADJ-BCS613D/blob/main/8.JDBCCoffee_Employee/8d.UpdateEmployee/8d_op.png)
 
 
 
