@@ -98,13 +98,15 @@
 
 ### 7a) JSP Session Management
 
-- [JSP Session_op1](https://github.com/SakshiShetty19/ADJ-BCS613D/blob/main/6.Servlet_Programs/Factorial_Servlet/6a_op.png)
-- [JSP Session_op2](https://github.com/SakshiShetty19/ADJ-BCS613D/blob/main/6.Servlet_Programs/Factorial_Servlet/6a_op.png)
+- [JSP Session_op1](https://github.com/SakshiShetty19/ADJ-BCS613D/blob/main/7.JSPSession_Cookie/7a.JSPSession/7a1_op.png)
+- [JSP Session_op2](https://github.com/SakshiShetty19/ADJ-BCS613D/blob/main/7.JSPSession_Cookie/7a.JSPSession/7a2_op.png)
 
 ### 7b) JSP Cookie Management
 
-- [JSP Cookie_op1](https://github.com/SakshiShetty19/ADJ-BCS613D/blob/main/6.Servlet_Programs/CookieServlet/6b1_op.png)
-- [JSP Cookie_op2](https://github.com/SakshiShetty19/ADJ-BCS613D/blob/main/6.Servlet_Programs/CookieServlet/6b2_op.png)
+- [JSP Cookie_op1](https://github.com/SakshiShetty19/ADJ-BCS613D/blob/main/7.JSPSession_Cookie/7b.JSPCookie/7b1_op.png)
+- [JSP Cookie_op2](https://github.com/SakshiShetty19/ADJ-BCS613D/blob/main/7.JSPSession_Cookie/7b.JSPCookie/7b2_op.png)
+- [JSP Cookie_op3](https://github.com/SakshiShetty19/ADJ-BCS613D/blob/main/7.JSPSession_Cookie/7b.JSPCookie/7b3_op.png)
+
 
 
 
