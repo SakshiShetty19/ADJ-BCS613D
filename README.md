@@ -83,16 +83,18 @@
 
 ### 6a) Factorial Servlet
 
-- [Factorial Servlet_op](https://github.com/SakshiShetty19/ADJ-BCS613D/blob/main/5.Swing_Programs2/5a_op.png)
+- [Factorial Servlet_op](https://github.com/SakshiShetty19/ADJ-BCS613D/blob/main/6.Servlet_Programs/Factorial_Servlet/6a_op.png)
 
 ### 6b) Cookie Servlet
 
-- [Cookie Servlet_op1](https://github.com/SakshiShetty19/ADJ-BCS613D/blob/main/5.Swing_Programs2/5b1_op.png)
-- [Cookie Servlet_op2](https://github.com/SakshiShetty19/ADJ-BCS613D/blob/main/5.Swing_Programs2/5b2_op.png)
+- [Cookie Servlet_op1](https://github.com/SakshiShetty19/ADJ-BCS613D/blob/main/6.Servlet_Programs/CookieServlet/6b1_op.png)
+- [Cookie Servlet_op2](https://github.com/SakshiShetty19/ADJ-BCS613D/blob/main/6.Servlet_Programs/CookieServlet/6b2_op.png)
 
 ### 6c) Prime Servlet
 
-- [Prime Servlet 2_op](https://github.com/SakshiShetty19/ADJ-BCS613D/blob/main/5.Swing_Programs2/5c_op.png)
+- [Prime Servlet 2_op](https://github.com/SakshiShetty19/ADJ-BCS613D/blob/main/6.Servlet_Programs/Prime_Servlet/6c_op.png)
+
+
 
 
 
