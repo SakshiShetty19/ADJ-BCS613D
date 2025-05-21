@@ -126,6 +126,9 @@
 
 - [Update Employee_op](https://github.com/SakshiShetty19/ADJ-BCS613D/blob/main/8.JDBCCoffee_Employee/8d.UpdateEmployee/8d_op.png)
 
+### MYSQL_Database 
+- [Database](https://github.com/SakshiShetty19/ADJ-BCS613D/blob/main/8.JDBCCoffee_Employee/My_SQL.sql)
+
 ## 9> Database Operations
 
 ### 9a) Delete Coffee
@@ -146,7 +149,7 @@
 - [Delete Employee_op](https://github.com/SakshiShetty19/ADJ-BCS613D/blob/main/9.Coffee_Employee_JDBC/9d.Delete_Employee/9d_op.png)
 
 ### MYSQL_Database 
-- [Database]()
+- [Database](https://github.com/SakshiShetty19/ADJ-BCS613D/blob/main/9.Coffee_Employee_JDBC/MY_SQL.sql)
 
 
 
