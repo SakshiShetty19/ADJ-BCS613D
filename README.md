@@ -126,6 +126,26 @@
 
 - [Update Employee_op](https://github.com/SakshiShetty19/ADJ-BCS613D/blob/main/8.JDBCCoffee_Employee/8d.UpdateEmployee/8d_op.png)
 
+## 9> Database Operations
+
+### 9a) Delete Coffee
+
+- [Delete Coffee_op](https://github.com/SakshiShetty19/ADJ-BCS613D/blob/main/9.Coffee_Employee_JDBC/9a.Delete_Coffee/9a_op.png)
+)
+
+### 9b) Query Coffee Name Starting with D
+
+- [Query Coffee_op1](https://github.com/SakshiShetty19/ADJ-BCS613D/blob/main/9.Coffee_Employee_JDBC/9b.Coffee_Query/9b_op.png)
+
+### 9c) Append Employee
+
+- [ Append Employee_op](https://github.com/SakshiShetty19/ADJ-BCS613D/blob/main/9.Coffee_Employee_JDBC/9c.Append_Employee/9c_op.png)
+
+### 9d)Delete Employee Records Starting with S
+
+- [Delete Employee_op](https://github.com/SakshiShetty19/ADJ-BCS613D/blob/main/9.Coffee_Employee_JDBC/9d.Delete_Employee/9d_op.png)
+
+
 
 
 
