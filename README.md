@@ -94,6 +94,18 @@
 
 - [Prime Servlet 2_op](https://github.com/SakshiShetty19/ADJ-BCS613D/blob/main/6.Servlet_Programs/Prime_Servlet/6c_op.png)
 
+## 7> JSP Session and Cookie Management
+
+### 7a) JSP Session Management
+
+- [JSP Session_op1](https://github.com/SakshiShetty19/ADJ-BCS613D/blob/main/6.Servlet_Programs/Factorial_Servlet/6a_op.png)
+- [JSP Session_op2](https://github.com/SakshiShetty19/ADJ-BCS613D/blob/main/6.Servlet_Programs/Factorial_Servlet/6a_op.png)
+
+### 7b) JSP Cookie Management
+
+- [JSP Cookie_op1](https://github.com/SakshiShetty19/ADJ-BCS613D/blob/main/6.Servlet_Programs/CookieServlet/6b1_op.png)
+- [JSP Cookie_op2](https://github.com/SakshiShetty19/ADJ-BCS613D/blob/main/6.Servlet_Programs/CookieServlet/6b2_op.png)
+
 
 
 
