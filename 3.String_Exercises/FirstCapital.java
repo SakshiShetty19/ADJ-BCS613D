@@ -1,6 +1,7 @@
 //3c. String Exercise progams
 /*Q6. Write a Java Program for Capitalizing the first letter of each word. using user defined function
 capitalizeWords() */
+
 public class FirstCapital {
     public static String capitalizeWords1(String input) {
         String[] words = input.split("\\s+");
