@@ -2,7 +2,6 @@
 appending the string ‘AIET’ for 10000 times both in the StringBuffer and StringBuilder. Justify
 your answer which one is better.*/
 
-
 public class PerformanceTest {
 
     public static void main(String[] args) {
