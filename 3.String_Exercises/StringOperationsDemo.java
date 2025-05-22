@@ -4,7 +4,6 @@ String Creation and Basic Operations, Length and Character Access, String Compar
 Searching, Substring Operations , String Modification, Whitespace Handling, String
 Concatenation, String Splitting, StringBuilder Demo, String Formatting , Validate Email with
 contains( ) and startsWith() and endsWith()*/
-
 public class StringOperationsDemo {
 
     public static void main(String[] args) {
