@@ -1,6 +1,5 @@
 /*Q10. Write a Java Program for Counting the number of words in a string using user defined function
 countWords()*/
-
 public class WordCount {
 	    public static int countWords1(String input) {
 	        if (input == null || input.isEmpty()) {
