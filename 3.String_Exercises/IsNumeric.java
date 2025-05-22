@@ -1,6 +1,5 @@
 /*Q8. Write a Java Program for Verifying if a string contains only numeric characters using user defined
 function isNumeric()*/
-
 public class IsNumeric {
 	    public static boolean isNumeric1(String input) {
 	        return input.matches("\\d+");
